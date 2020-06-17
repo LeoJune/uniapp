@@ -5,7 +5,7 @@ a('allen')
 
 
 const cz = () => {
-    return 'this is empty function form cz'
+    return 'this is empty function form cz in 17th June 2020'
 }
 
 const llc = () => {
@@ -16,6 +16,6 @@ const cz2 = () => {
     return 'lydia'
 }
 
-const llc2 = () => {
-    return 'conflict practice'
+const cz3 = () => {
+    return 'light up the way'
 }
