@@ -9,6 +9,10 @@ const cz = () => {
 }
 
 const llc = () => {
-	return 'this is empty function'
+    return 'this is empty function'
+}
+
+const cz2 = () => {
+    return 'lydia'
 }
 
