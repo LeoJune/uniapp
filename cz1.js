@@ -10,3 +10,7 @@ const llc = () => {
 const llc2 = () => {
     return 'conflict practice'
 }
+
+const llc3 = () => {
+    return 'conflict practice2222'
+}
