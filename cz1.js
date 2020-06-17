@@ -3,6 +3,12 @@ const a = name => {
 }
 a('allen')
 
+
+const cz = () => {
+    return 'this is empty function form cz'
+}
+
 const llc = () => {
 	return 'this is empty function'
 }
+
